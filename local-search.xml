@@ -4,17 +4,23 @@
   
   
   <entry>
-    <title>test_blog</title>
+    <title>CTF-PWN一些题目的随记</title>
     <link href="/2023/04/19/test-blog/"/>
     <url>/2023/04/19/test-blog/</url>
     
-    <content type="html"><![CDATA[<p>这是一篇测试文章</p><p><img src="/2023/04/19/test-blog/images.jpg"></p>]]></content>
+    <content type="html"><![CDATA[<blockquote><p>记录一些知识点，需要的时候回来看看</p></blockquote>]]></content>
     
+    
+    <categories>
+      
+      <category>CTF</category>
+      
+    </categories>
     
     
     <tags>
       
-      <tag>原创</tag>
+      <tag>考研记录</tag>
       
     </tags>
     
